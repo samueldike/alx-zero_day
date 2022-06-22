@@ -1,2 +1,1 @@
-My first readme
-README is manually updated
+How to be up to date in git
